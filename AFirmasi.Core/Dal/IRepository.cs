@@ -7,10 +7,10 @@ using System.Text;
 
 namespace AFirmasi.Core.Dal
 {
-    public interface IRepository<T> where T : IEntity
+    public interface IRepository<T> where T : class, IEntity
     {
         IQueryable<T> GetAll();
-        IQueryable<T> GetEx(Expression<Func<T,bool>> predicate);
+        IQueryable<T> GetEx(Expression<Func<T, bool>> predicate);
         T GetById(int id);
         void Add(T entity);
         void Update(T entity);
