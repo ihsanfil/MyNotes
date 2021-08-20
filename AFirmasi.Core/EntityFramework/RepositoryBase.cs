@@ -23,11 +23,13 @@ namespace AFirmasi.Core.EntityFramework
         public void Add(Tentity entity)
         {
             context.Set<Tentity>().Add(entity);
+            Save();
         }
 
         public void Delete(Tentity entity)
         {
             context.Set<Tentity>().Remove(entity);
+            Save();
         }
 
         public IQueryable<Tentity> GetAll()
@@ -53,6 +55,7 @@ namespace AFirmasi.Core.EntityFramework
         public void Update(Tentity entity)
         {
             context.Set<Tentity>().Update(entity);
+            Save();
         }
     }
 }

@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\AFirmasi.MyNotes.DataAccess\AFirmasi.MyNotes.DataAccess.csproj" />
+    <ProjectReference Include="..\AFirmasi.MyNotes.Entities\AFirmasi.MyNotes.Entities.csproj" />
+  </ItemGroup>
+
 </Project>
