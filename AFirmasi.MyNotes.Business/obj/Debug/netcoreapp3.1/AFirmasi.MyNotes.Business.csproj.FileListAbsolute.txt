@@ -1,0 +1,16 @@
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.deps.json
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.Core.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\bin\Debug\netcoreapp3.1\AFirmasi.Core.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.csproj.CopyComplete
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Business\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.pdb

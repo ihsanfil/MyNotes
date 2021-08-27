@@ -1,0 +1,9 @@
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\bin\Debug\netcoreapp3.1\AFirmasi.Core.deps.json
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\bin\Debug\netcoreapp3.1\AFirmasi.Core.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\bin\Debug\netcoreapp3.1\AFirmasi.Core.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\obj\Debug\netcoreapp3.1\AFirmasi.Core.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\obj\Debug\netcoreapp3.1\AFirmasi.Core.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\obj\Debug\netcoreapp3.1\AFirmasi.Core.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\obj\Debug\netcoreapp3.1\AFirmasi.Core.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\obj\Debug\netcoreapp3.1\AFirmasi.Core.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.Core\obj\Debug\netcoreapp3.1\AFirmasi.Core.pdb

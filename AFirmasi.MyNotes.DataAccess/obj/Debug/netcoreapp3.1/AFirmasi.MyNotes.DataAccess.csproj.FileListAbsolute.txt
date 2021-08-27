@@ -1,0 +1,14 @@
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.deps.json
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\bin\Debug\netcoreapp3.1\AFirmasi.Core.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\bin\Debug\netcoreapp3.1\AFirmasi.Core.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.csproj.CopyComplete
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.DataAccess\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.DataAccess.pdb

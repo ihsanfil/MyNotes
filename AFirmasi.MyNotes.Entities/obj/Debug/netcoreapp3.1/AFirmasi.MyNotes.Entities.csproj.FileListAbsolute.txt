@@ -1,0 +1,12 @@
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.deps.json
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\bin\Debug\netcoreapp3.1\AFirmasi.Core.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\bin\Debug\netcoreapp3.1\AFirmasi.Core.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.csproj.AssemblyReference.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.AssemblyInfoInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.AssemblyInfo.cs
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.csproj.CoreCompileInputs.cache
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.csproj.CopyComplete
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.Entities\obj\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.pdb
