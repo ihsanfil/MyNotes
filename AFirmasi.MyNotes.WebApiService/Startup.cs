@@ -32,7 +32,7 @@ namespace AFirmasi.MyNotes.WebApiService
         {
             services.AddControllers();
             services.AddDbContext<MyNotesDbContext>(
-        options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+        options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"),b=>b.MigrationsAssembly("AFirmasi.MyNotes.WebApiService")));
             services.AddTransient<INoteService, NoteManager>();
             services.AddTransient<INoteRepository, NoteDal>();
             services.AddTransient<ICategoryService, CategoryManager>();

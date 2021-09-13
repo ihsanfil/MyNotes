@@ -64,3 +64,5 @@ C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirm
 C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.WebApiService\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Entities.pdb
 C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.WebApiService\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.dll
 C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.WebApiService\bin\Debug\netcoreapp3.1\AFirmasi.MyNotes.Business.pdb
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.WebApiService\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\MSİ\Desktop\ASPNETCORE-API-EGITIM-ZAFER-KARAHAN\mmynotes\MyNotes\AFirmasi.MyNotes.WebApiService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
